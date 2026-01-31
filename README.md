@@ -3,7 +3,7 @@
 <h2> 👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory Deployment and Configuration](https://github.com/alexandrpaul/ad-dac)
+  - [Active Directory Domain Services Deployment and Configuration](https://github.com/alexandrpaul/ad-dac)
   - [Active Directory Administration and IT Service Operations Simulation](https://github.com/alexandrpaul/ad-isos)
 
 <b></b>
