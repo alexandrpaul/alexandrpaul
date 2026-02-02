@@ -10,7 +10,7 @@
 <b></b>
 
 - <b>Ticketing System</b>
-  - [OsTicket: Prerequisites and Installation](https://github.com/alexandrpaul/ost-pni)
+  - [osTicket: Prerequisites and Installation](https://github.com/alexandrpaul/ost-pni)
 
 
 <br>
