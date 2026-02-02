@@ -12,7 +12,7 @@
 - <b>Ticketing System</b>
   - [osTicket: Prerequisites and Installation](https://github.com/alexandrpaul/ost-pni)
   - [osTicket: Post-Installation Configuration](https://github.com/alexandrpaul/ost-pic)
-
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/alexandrpaul/ost-tlcex)
 
 <br>
 
