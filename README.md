@@ -14,6 +14,12 @@
   - [osTicket: Post-Installation Configuration](https://github.com/alexandrpaul/ost-pic)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/alexandrpaul/ost-tlcex)
 
+<b></b>
+<b></b>
+
+- <b>Windows Troubleshooting</b>
+  - [Windows Operational Diagnostics and Solutions](https://github.com/alexandrpaul/win-trou)
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
